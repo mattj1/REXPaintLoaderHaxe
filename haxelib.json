@@ -1,0 +1,16 @@
+
+{
+	"name": "REXPaintLoaderHaxe",
+	"tags": [
+	],
+	"description": "REXPaint loader for Haxe",
+	"contributors": [
+		"mattj1"
+	],
+	"releasenote": "First haxelib release.",
+	"version": "0.0.0",
+	"url": "http://github.com/mattj1/REXPaintLoaderHaxe/",
+	"dependencies": {
+		"format": ""
+	}
+}
